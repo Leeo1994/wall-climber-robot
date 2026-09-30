@@ -12,3 +12,6 @@ University of Bristol group project. A magnetic tracked robot that climbs walls,
 - Raspberry Pi 4 (host) connected to a Pi camera (CSI) and a lidar (USB)
 - Arduino Micro (peripheral), connected to the Pi over serial
 - Arduino sends PWM signals to a motor driver, which adjusts the speed of the two motors
+
+## Stakeholders
+Albion Dock and SS Brunel gave input as potential stakeholders and said they could be interested in a robot like this. We did not pursue this further.
